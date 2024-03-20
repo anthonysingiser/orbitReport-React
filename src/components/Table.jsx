@@ -20,7 +20,6 @@ const Table = ({ sat }) => {
             </tr>
           );
         })}
-        <td>Row Data TBD</td>
       </tbody>
     </table>
   );
